@@ -1,4 +1,4 @@
-#Asteroids Game
+# Asteroids Game
 
 Classic asteroids game implemented using python and the codeskulptor framework.
 
